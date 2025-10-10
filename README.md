@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on<br>GenCoder — a LeetCode-like platform with competitive matches and a secure MicroVM-based code execution system for safe and isolated runtime environments.<br><br>🌱 I’m currently learning<br>Agentic AI and autonomous systems<br>Operating Systems and Computer Networking<br>DevOps, CI/CD, and deployment workflows<br><br>💬 Ask me about<br>Backend Development and scalable architectures<br>Retrieval-Augmented Generation (RAG) systems<br>SQL and NoSQL Databases <br>Docker and containerized deployment
 
 
