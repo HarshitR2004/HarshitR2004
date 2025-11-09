@@ -1,7 +1,7 @@
 # About Me
 
 - **Currently Working On**
-  - **GenCoder** — A LeetCode-like platform featuring:
+  - **GenCoder** which is a LeetCode-like platform featuring:
     - Competitive programming matches
     - Secure MicroVM-based code execution system
     - Isolated runtime environments ensuring safety and scalability
