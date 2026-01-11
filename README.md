@@ -1,11 +1,5 @@
 # About Me
 
-- **Currently Working On**
-  - **GenCoder** which is a LeetCode-like platform featuring:
-    - Competitive programming matches
-    - Secure MicroVM-based code execution system
-    - Isolated runtime environments ensuring safety and scalability
-
 - **Currently Learning**
   - Agentic AI and Autonomous Systems  
   - Operating Systems and Computer Networking  
